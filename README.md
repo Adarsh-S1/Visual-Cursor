@@ -2,7 +2,7 @@
 
 This Python application allows users to control their computer's mouse cursor using head movements and eye blinks. It is designed as an assistive technology for individuals who are paralyzed from the neck down or for people without upper limbs, providing them with a hands-free way to interact with a computer.
 
-![Placeholder for GIF](https://placehold.co/600x400/2d3748/ffffff?text=Add+a+GIF+Demonstration+Here)
+![Placeholder for GIF](result.gif)
 
 ---
 
